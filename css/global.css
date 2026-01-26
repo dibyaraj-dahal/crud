@@ -1,0 +1,22 @@
+*,::after,::before{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body {
+  background: #88d0ca;
+  font-family: Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #222;
+}
+.section-center {
+  margin: 0 auto;
+  margin-top: 8rem;
+  max-width: 30rem;
+  background: #7079a4;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  position: relative;
+ 
+}
