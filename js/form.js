@@ -1,4 +1,4 @@
-import { addItem, updateItemName } from "./apps.js";
+import { addItem, updateItemName } from "./app.js";
 
 // Create Form Element
 export function createForm(editId, itemToEdit) {
