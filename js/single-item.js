@@ -1,3 +1,4 @@
+import { editCompleted, removeItem, setEditId } from "./app.js";
 
 // Create SingleItem Element
 export function createSingleItem(item) {
